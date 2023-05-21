@@ -1,9 +1,3 @@
-<%-- 
-    Document   : nosotros
-    Created on : 19 may. 2023, 20:26:10
-    Author     : Kratzer
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
